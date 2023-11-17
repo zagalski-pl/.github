@@ -1,0 +1,1 @@
+# zagalski.pl
